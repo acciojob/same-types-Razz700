@@ -10,7 +10,7 @@ return true;
       }
   }
 	
-}
+
 
 // do not change the code below.
 let value1 = prompt("Enter Start of the Range.");
